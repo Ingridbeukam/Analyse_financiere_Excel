@@ -55,6 +55,8 @@ Ce projet Excel s’appuie sur le jeu de données `Financial Sample` fourni par 
 
 
 ✅ Conclusion de l’analyse
+
+
 L’étude des données financières met en évidence plusieurs tendances significatives :
 
 Évolution temporelle : Les ventes et les prix varient au fil des mois, avec un pic notable en octobre, indiquant une saisonnalité dans l’activité commerciale.
