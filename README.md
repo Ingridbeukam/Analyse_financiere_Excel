@@ -59,11 +59,15 @@ Ce projet Excel s’appuie sur le jeu de données `Financial Sample` fourni par 
 
 L’étude des données financières met en évidence plusieurs tendances significatives :
 
-Évolution temporelle : Les ventes et les prix varient au fil des mois, avec un pic notable en octobre, indiquant une saisonnalité dans l’activité commerciale.
+## Évolution temporelle : 
 
-Analyse géographique : Les pays générant le plus de profit sont la France, l’Allemagne et le Canada, suggérant des marchés particulièrement rentables.
+Les ventes et les prix varient au fil des mois, avec un pic notable en octobre, indiquant une saisonnalité dans l’activité commerciale.
 
-Analyse par segment :
+## Analyse géographique : 
+
+Les pays générant le plus de profit sont la France, l’Allemagne et le Canada, suggérant des marchés particulièrement rentables.
+
+## Analyse par segment :
 
 Le segment Gouvernement et celui des Small Business affichent les profits les plus élevés.
 
@@ -71,7 +75,7 @@ Le segment Gouvernement et celui des Small Business affichent les profits les pl
 
 Le segment Gouvernement se distingue également par un coût de fabrication (Manufacturing Price) particulièrement élevé.
 
-Analyse des remises (Discount Band) :
+## Analyse des remises (Discount Band) :
 
 En termes de ventes, le niveau Medium représente environ 33 % du total.
 
