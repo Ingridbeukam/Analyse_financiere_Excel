@@ -54,3 +54,24 @@ Ce projet Excel s’appuie sur le jeu de données `Financial Sample` fourni par 
 - Comparaison des performances entre catégories de produits
 
 
+✅ Conclusion de l’analyse
+L’étude des données financières met en évidence plusieurs tendances significatives :
+
+Évolution temporelle : Les ventes et les prix varient au fil des mois, avec un pic notable en octobre, indiquant une saisonnalité dans l’activité commerciale.
+
+Analyse géographique : Les pays générant le plus de profit sont la France, l’Allemagne et le Canada, suggérant des marchés particulièrement rentables.
+
+Analyse par segment :
+
+Le segment Gouvernement et celui des Small Business affichent les profits les plus élevés.
+
+À l’inverse, le segment Enterprise présente des pertes, indiquant une performance financière négative.
+
+Le segment Gouvernement se distingue également par un coût de fabrication (Manufacturing Price) particulièrement élevé.
+
+Analyse des remises (Discount Band) :
+
+En termes de ventes, le niveau Medium représente environ 33 % du total.
+
+Pour les profits, le niveau Low est le plus rentable, représentant près de 37 % des bénéfices.
+
