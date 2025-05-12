@@ -81,3 +81,5 @@ En termes de ventes, le niveau Medium représente environ 33 % du total.
 
 Pour les profits, le niveau Low est le plus rentable, représentant près de 37 % des bénéfices.
 
+### 📬 Contact
+Tu peux me contacter via ingridbeukam@gmail.com ou LinkedIn https://www.linkedin.com/in/ingrid-madjougang-beukam/ pour toute question ou suggestion.
